@@ -1,0 +1,6 @@
+{
+  "name": "Aether Prime Broker",
+  "description": "Next-generation institutional and retail brokerage platform with glossy glassmorphic design, real-time live trading engine, biometric security, interactive candlestick charting, portfolio analytics, and multi-asset execution.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
